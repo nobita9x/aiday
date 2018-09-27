@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">48dp</dimen>
+    <dimen name="small_space">8dp</dimen>
+    <dimen name="medium_space">16dp</dimen>
+    <dimen name="tiny_space">5dp</dimen>
+    <dimen name="message_margin_edge">60dp</dimen>
+
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_tiny">12sp</dimen>
+    <dimen name="text_size_big">20sp</dimen>
+    <dimen name="text_super_big">30sp</dimen>
+
+    <dimen name="nav_drawer_width">320dp</dimen>
+    <dimen name="margin_top_drawer">18dp</dimen>
+    <dimen name="margin_horizontal_drawer">25dp</dimen>
+
+    <!-- bottom navigation -->
+    <dimen name="tablayout_bottom_height">60dp</dimen>
+    <dimen name="floating_button_margin_right">16dp</dimen>
+    <dimen name="tablayout_message_height">30dp</dimen>
+    <dimen name="subText">@dimen/text_size_small</dimen>
+    <dimen name="mainText">@dimen/text_size_big</dimen>
+    <dimen name="circle_img_header_size">120dp</dimen>
+    <dimen name="circle_img_size">60dp</dimen>
+    <dimen name="progressbar_loading_contact_padding">-5dp</dimen>
+    <dimen name="circle_img_small_size">40dp</dimen>
+    <dimen name="circle_img_border_witdh">2dp</dimen>
+    <dimen name="nav_badge_size">25dp</dimen>
+    <dimen name="btn_common_size">45dp</dimen>
+    <dimen name="btn_detail_fb">30dp</dimen>
+    <dimen name="sidebar_contact_width">20dp</dimen>
+    <dimen name="btn_call_margin_right">1dp</dimen>
+
+    <dimen name="toolbar_main_margin_left">5dp</dimen>
+    <dimen name="toolbar_main_margin_top">5dp</dimen>
+    <dimen name="button_common_height">45dp</dimen>
+    <dimen name="button_radius">30dp</dimen>
+    <dimen name="info_bg_round_corner">10dp</dimen>
+    <dimen name="btn_login_left_icon_size">25dp</dimen>
+
+    <dimen name="circle_img_size_small">45dp</dimen>
+    <dimen name="list_message_quick_reply_height">150dp</dimen>
+
+    <dimen name="padding_top_intro">70dp</dimen>
+    <dimen name="padding_bottom_intro">60dp</dimen>
+    <dimen name="dialpad_margin_bottom">5dp</dimen>
+</resources>
