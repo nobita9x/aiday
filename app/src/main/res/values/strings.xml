@@ -13,5 +13,12 @@
     <string name="sms">SMS</string>
     <string name="call_log">Call Log</string>
     <string name="contact">Contact</string>
+    <string name="login_google">Login with Google</string>
+    <string name="login_fb">Login with Facebook</string>
+    <string name="facebookcancel">Facebook cancel!</string>
+    <string name="login_failed">Login failed!</string>
+    <string name="login_success">Success!</string>
+    <string name="facebook_app_id">1186837318124161</string>
+    <string name="fb_login_protocol_scheme">fb1186837318124161</string>
 
 </resources>
